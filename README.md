@@ -1,6 +1,6 @@
 # Exibindo se o número é par ou ímpar
 
-O programa que o usuário digite dois números, soma esses números e retorna para o usuário e a soma dos números é par ou ímpar.
+O programa pede que o usuário digite dois números, soma esses números e retorna para o usuário a soma dos números e se é par ou ímpar.
 
 ## Técnicas utilizadas no projeto:
 
